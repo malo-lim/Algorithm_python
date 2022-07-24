@@ -48,6 +48,7 @@
 ##### merge_k_sorted_lists 27) k개 정렬 리스트 병합
 ##### design_hashmap 28) 해시맵 디자인
 ##### jewels_and_stones 29) 보석과 돌
+##### longest_substring_without_reapting_characters 30) 중복 문자 없는 가장 긴 부분 문자열
 
 
 

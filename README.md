@@ -50,6 +50,7 @@
 ##### jewels_and_stones 29) 보석과 돌
 ##### longest_substring_without_reapting_characters 30) 중복 문자 없는 가장 긴 부분 문자열
 ##### top_k_frequent_elements 31) 상위 K 빈도 요소
+##### number_of_islands 32) 섬의 개수
 
 
 

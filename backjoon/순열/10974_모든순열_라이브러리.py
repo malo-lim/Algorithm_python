@@ -1,5 +1,6 @@
 import sys
 from itertools import permutations
+
 input = lambda: sys.stdin.readline().rstrip()
 
 N = int(input())
